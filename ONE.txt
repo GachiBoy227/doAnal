@@ -1,1 +1,1 @@
-Создал что-то
+System.out.println("Hello world");
